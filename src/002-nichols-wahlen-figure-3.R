@@ -24,7 +24,7 @@ source("src/utils.R")
 figdata <- read_sas(glue("{data_path}/figdata2.sas7bdat"))
 
 
-# relicate Nichols and Wahlen figure -------------------------------------------
+# replicate Nichols and Wahlen figure -------------------------------------------
 
 
 fig <- figdata |>
